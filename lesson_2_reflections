@@ -1,7 +1,11 @@
-What happens when you initialize a repository? Why do you need to do it?
+1) What happens when you initialize a repository? Why do you need to do it?
 
 I see the message "you initialized an empty repository". To create a commits to my projects.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is a part of Git and Working directory it's just directory on your own computer. It offers us some additional features like commiting.
+
+3) How can you use the staging area to make sure you have one commit per logical change? 
+
+We need to check the status, for this have to write command "git status".
