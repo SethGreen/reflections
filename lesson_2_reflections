@@ -8,4 +8,16 @@ Staging area is a part of Git and Working directory it's just directory on your 
 
 3) How can you use the staging area to make sure you have one commit per logical change? 
 
-We need to check the status, for this have to write command "git status".
+We need to check the status, for this have to write command "git status
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+For example it woud help me when i need to split up my project into 2 pieces. 
+
+5) How do the diagrams help you visualize the branch structure?
+
+It helps me to understand the principles of commits and their parents, also i can see which of them are unreachable
+
+6) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Merging automatically take less time than manual merging.
