@@ -5,3 +5,9 @@ When I need to free my storage.
 2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I know better which changes i have to view. 
+
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Differences between clones and forks: clones are the same as forks, but when you type the command "git clone" you copying a repository from GitHub or remote repo on your local repository. Forks a bit different, when you view the another's person GitHub you click on "Fork": it means that you just copying his repo into your own, but it appears only on GitHub not on your local. So you can view forks only online. 
+
+You can branches just by yourself or with somebody. They need if you want to split up your project into 2 pieces, then you can merge this branches. But it's not copyiing. You dan't need to be confused :P
