@@ -11,3 +11,7 @@ I know better which changes i have to view.
 Differences between clones and forks: clones are the same as forks, but when you type the command "git clone" you copying a repository from GitHub or remote repo on your local repository. Forks a bit different, when you view the another's person GitHub you click on "Fork": it means that you just copying his repo into your own, but it appears only on GitHub not on your local. So you can view forks only online. 
 
 You can branches just by yourself or with somebody. They need if you want to split up your project into 2 pieces, then you can merge this branches. But it's not copyiing. You dan't need to be confused :P
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Let us create navigate throught whole project.
