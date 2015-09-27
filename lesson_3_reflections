@@ -15,3 +15,7 @@ You can branches just by yourself or with somebody. They need if you want to spl
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Let us create navigate throught whole project.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would collaborate with others using diferrent version-control systems like: SVN, DropBox and etc. Without Git or GitHub it would much harder. I guess my traffic limit wouldn't allow me to upload a big projects. Also Dropbox gives me only 50 gb free space by default. 
